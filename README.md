@@ -6,10 +6,10 @@ This is the workspace for fn 22707 - Asen
  You will need to have the following:
   - git - for source control
   - cmake - to building the program
-  - c++ compiler 
+  - c++ compiler
       - Linux: g++
       - Windows: VisualStudio (C++ Profile)
- 
+
 # A project in Git
  1. Initialize a git repository and move the code there
  2. Take a look at `git status` and `git log`
