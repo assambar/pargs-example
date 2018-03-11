@@ -12,8 +12,9 @@ using namespace std;
  */
 int main(int argc, char* argv[])
 {
-  for (int i=0; i < argc; i++) {
-      cout << argv[i] << endl << endl;
-  }
-  return 0;
+    cout << "Printing " << argc << " command arguments:" << endl;
+    for (int i=0; i < argc; i++) {
+        cout << argv[i] << endl;
+    }
+    return 0;
 }
